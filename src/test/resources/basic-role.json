@@ -1,0 +1,4 @@
+{
+  "name": "basic-json-role",
+  "strings": [ "hello:world", "bye:galaxy" ]
+}

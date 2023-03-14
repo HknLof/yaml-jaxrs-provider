@@ -1,0 +1,4 @@
+name: basic-yaml-role
+strings:
+  - "hello:world"
+  - "bye:galaxy"
